@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m -p -a -A [[:alpha:]] 
+ls -m -p -a -A [[:alpha:]]
