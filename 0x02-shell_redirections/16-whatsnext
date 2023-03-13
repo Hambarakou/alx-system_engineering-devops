@@ -1,0 +1,2 @@
+#!/bin/bash
+grep --word-regexp="root" | tail -n 3
