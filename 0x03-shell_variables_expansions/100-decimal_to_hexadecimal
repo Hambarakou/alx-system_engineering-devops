@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((16#DECIMAL))"
+11;rgb:0000/0000/0000echo "$((16#$DECIMAL))"
